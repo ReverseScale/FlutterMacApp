@@ -65,7 +65,7 @@ void main() {
 保存代码，就可以了。
 
 ### 新建 Feather 项目
-
+1
 点击 Feature Workbench 界面右下角的加号，进入新建页面，点击 `BROWSE` 找到 Flutter 项目工程。
 
 <img width="480" height="630" src="https://user-gold-cdn.xitu.io/2018/12/18/167bf85175e1b385?w=1034&h=1356&f=png&s=102872"/>
@@ -103,6 +103,6 @@ void main() {
 ### 效果演示
 上面使用的是 Flutter 官方的示例工程，有朋友表示看起来不过瘾，so 我从网上找了一个看起来很适合做跨平台服务的示例工程，经过改造后我将其运行到了 macOS 系统上。
 
-![](https://user-gold-cdn.xitu.io/2019/1/17/16859e37bdb79657?imageView2/0/w/1280/h/960/ignore-error/1)
+![](https://api.superbed.cn/pic/5c40013a9dc6d6264b5e2e0c)
 
 朋友们满意了没🤪...
