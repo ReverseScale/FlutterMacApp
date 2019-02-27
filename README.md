@@ -107,5 +107,5 @@ void main() {
 
 朋友们满意了没🤪...
 
-> Flutter 安装、使用、调试更多技巧，见[Flutter 练习存档](https://github.com/ReverseScale/FlutterDemo)
+> Flutter 安装、使用、调试技巧及更多演示项目，详见 [Flutter 练习存档](https://github.com/ReverseScale/FlutterDemo)
 
