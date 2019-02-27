@@ -106,3 +106,6 @@ void main() {
 ![](https://api.superbed.cn/pic/5c40013a9dc6d6264b5e2e0c)
 
 朋友们满意了没🤪...
+
+> Flutter 安装、使用、调试更多技巧，见[Flutter 练习存档](https://github.com/ReverseScale/FlutterDemo)
+
