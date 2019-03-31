@@ -1,4 +1,4 @@
-[中文](https://github.com/ReverseScale/FlutterMacApp/blob/master/README_zh.md) | [EN](https://github.com/ReverseScale/FlutterMacApp)
+[中文](https://github.com/ReverseScale/FlutterMacApp) | [EN](https://github.com/ReverseScale/FlutterMacApp/blob/master/README_zh.md)
 
 ### Flutter 
 Flutter is a new cross-platform, open source UI framework developed by Google that supports iOS, Android system development, and is the default development kit for the new operating system Fuchsia.
