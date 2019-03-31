@@ -1,6 +1,6 @@
 # FlutterMacApp
 
-[中文](https://github.com/ReverseScale/FlutterMacApp/blob/master/README_zh.md) | [EN](https://github.com/ReverseScale/FlutterMacApp)
+[中文](https://github.com/ReverseScale/FlutterMacApp) | [EN](https://github.com/ReverseScale/FlutterMacApp/blob/master/README_zh.md)
 
 ### Flutter 框架
 Flutter 是 Google 开发的一套全新的跨平台、开源 UI 框架，支持 iOS、Android 系统开发，并且是未来新操作系统 Fuchsia 的默认开发套件。
