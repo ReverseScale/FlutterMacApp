@@ -102,7 +102,8 @@ Just like the release process, just pay attention to modify the version number, 
 
 ### Demonstration
 The above is Flutter's official example project, a friend said it seems to be not addictive, so I found a sample project on the Internet that seems to be suitable for cross-platform services, I modified it to run on the macOS system.
-![](https://api.superbed.cn/pic/5c40013a9dc6d6264b5e2e0c)
+
+![](https://user-gold-cdn.xitu.io/2019/1/17/16859e37bdb79657?w=801&h=448&f=png&s=450268)
 
 Friends are satisfied with nothing🤪...
 
